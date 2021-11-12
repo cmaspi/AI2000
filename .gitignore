@@ -1,2 +1,6 @@
-a.txt
-Assignment-4/q5.ipynb
+Assignment-4/train.csv
+Assignment-4/test.csv
+Assignment-4/train.csv.zip
+*.csv
+*.zip
+
